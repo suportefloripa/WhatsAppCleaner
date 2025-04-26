@@ -1,4 +1,6 @@
 # WhatsAppCleaner
+![Badge](https://img.shields.io/badge/Windows-10%2B-0078D6?logo=windows&logoColor=white)
+![Badge](https://img.shields.io/badge/License-MIT-green)
 
 Um utilitário simples para limpar arquivos temporários do WhatsApp Desktop, liberando espaço em disco.
 
