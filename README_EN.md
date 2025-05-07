@@ -19,7 +19,7 @@ WhatsAppCleaner is a Windows batch script designed to clean accumulated temporar
 
 ## 🚀 How to Use
 
-1. Download [WhatsAppCleaner_EN.bat](https://raw.githubusercontent.com/suportefloripa/WhatsAppCleaner/main/WhatsAppCleaner_EN.bat)
+1. Download [WhatsAppCleaner_EN.bat](https://raw.githubusercontent.com/suportefloripa/WhatsAppCleaner/main/WhatsAppCleaner_EN.bat) (Right click on the link and "Save Link As")
 2. Run by double-clicking or right-click and "Run as administrator"
 3. The script will show space used by temporary files
 4. Type `y` and press Enter to confirm cleanup, or `n` to cancel
