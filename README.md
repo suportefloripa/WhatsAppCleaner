@@ -25,6 +25,8 @@ WhatsAppCleaner é uma ferramenta em lote (batch) desenvolvida para Windows que 
 4. Digite `s` e pressione Enter para confirmar a limpeza, ou `n` para cancelar
 5. Se o WhatsApp estiver em execução, ele será fechado automaticamente antes da limpeza e reaberto após a conclusão
 
+<img src="WhatsAppCleaner.jpg" align="center">
+
 ## ⚙️ Como funciona
 
 O script executa as seguintes etapas:
