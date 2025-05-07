@@ -25,6 +25,8 @@ WhatsAppCleaner is a Windows batch script designed to clean accumulated temporar
 4. Type `y` and press Enter to confirm cleanup, or `n` to cancel
 5. If WhatsApp is running, it will close automatically before cleanup and reopen afterward
 
+<img src="WhatsAppCleaner_EN.jpg" align="center">
+
 ## ⚙️ How It Works
 
 The script performs these steps:
