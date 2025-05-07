@@ -1,4 +1,4 @@
-# WhatsAppCleaner
+# WhatsAppCleaner [English version here](https://github.com/suportefloripa/WhatsAppCleaner/blob/main/README_EN.md)
 ![Badge](https://img.shields.io/badge/Windows-10%2B-0078D6?logo=windows&logoColor=white)
 ![Badge](https://img.shields.io/badge/License-MIT-green)
 
