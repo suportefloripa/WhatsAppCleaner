@@ -19,7 +19,7 @@ WhatsAppCleaner é uma ferramenta em lote (batch) desenvolvida para Windows que 
 
 ## 🚀 Como usar
 
-1. Baixe o arquivo [WhatsAppCleaner.bat](https://raw.githubusercontent.com/suportefloripa/WhatsAppCleaner/main/WhatsAppCleaner.bat)
+1. Baixe o arquivo [WhatsAppCleaner.bat](https://raw.githubusercontent.com/suportefloripa/WhatsAppCleaner/main/WhatsAppCleaner.bat) (Clique com o botão direito no link e "Salvar Link Como")
 2. Execute o arquivo com clique duplo ou clique com o botão direito e selecione "Executar como administrador"
 3. O script exibirá o espaço ocupado pelos arquivos temporários
 4. Digite `s` e pressione Enter para confirmar a limpeza, ou `n` para cancelar
